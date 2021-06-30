@@ -1,0 +1,29 @@
+11:40:33 INFO tree | pctl=0.0 | t=0.0	Baseline=0.78104	iteration=2	index=3	num_gene_included=3	Accuracy=0.74554	∆=-0.035506	SEM=0.030508
+11:40:35 INFO tree | pctl=0.0 | t=0.0	Baseline=0.78104	iteration=3	index=4	num_gene_included=4	Accuracy=0.76016	∆=-0.020884	SEM=0.032763
+11:40:36 INFO tree | pctl=0.0 | t=0.0	Baseline=0.78104	iteration=4	index=5	num_gene_included=5	Accuracy=0.7971	∆=0.016053	SEM=0.031791
+11:40:37 INFO tree | pctl=0.0 | t=0.0	Baseline=0.78104	iteration=5	index=6	num_gene_included=6	Accuracy=0.81959	∆=0.03855	SEM=0.031727
+11:40:41 INFO tree | pctl=0.0 | t=0.0	Baseline=0.78104	iteration=9	index=10	num_gene_included=10	Accuracy=0.82506	∆=0.04402	SEM=0.02855
+11:40:44 INFO tree | pctl=0.0 | t=0.0	Baseline=0.78104	iteration=11	index=12	num_gene_included=12	Accuracy=0.8263	∆=0.045258	SEM=0.032134
+11:40:45 INFO tree | pctl=0.0 | t=0.0	Baseline=0.78104	iteration=12	index=13	num_gene_included=13	Accuracy=0.84502	∆=0.063973	SEM=0.027567
+11:40:48 INFO tree | pctl=0.0 | t=0.0	Baseline=0.78104	iteration=15	index=16	num_gene_included=16	Accuracy=0.84656	∆=0.06552	SEM=0.030941
+11:40:50 INFO tree | pctl=0.0 | t=0.0	Baseline=0.78104	iteration=16	index=17	num_gene_included=17	Accuracy=0.85217	∆=0.071132	SEM=0.028466
+11:40:51 INFO tree | pctl=0.0 | t=0.0	Baseline=0.78104	iteration=17	index=18	num_gene_included=18	Accuracy=0.87593	∆=0.094885	SEM=0.027787
+11:43:12 INFO Early stopping at iteration=117 with maximum score= 0.8759281678773204
+13:07:55 INFO tree | pctl=0.1 | t=0.0	Baseline=0.81309	iteration=26	index=27	num_gene_included=27	Accuracy=0.87787	∆=0.06478	SEM=0.022382
+13:10:37 INFO Early stopping at iteration=126 with maximum score= 0.8778737740602148
+14:29:14 INFO Early stopping at iteration=100 with maximum score= 0.8530953196207434
+15:39:57 INFO Early stopping at iteration=100 with maximum score= 0.8514441224186986
+16:41:45 INFO Early stopping at iteration=100 with maximum score= 0.8631299883418527
+17:32:43 INFO tree | pctl=0.5 | t=0.0	Baseline=0.82195	iteration=65	index=66	num_gene_included=66	Accuracy=0.90879	∆=0.086841	SEM=0.019361
+17:35:11 INFO Early stopping at iteration=165 with maximum score= 0.9087875323044814
+18:21:17 INFO Early stopping at iteration=100 with maximum score= 0.8476846756507773
+18:58:36 INFO Early stopping at iteration=100 with maximum score= 0.8729758236114168
+19:27:20 INFO Early stopping at iteration=100 with maximum score= 0.9036400119027237
+19:52:01 INFO Early stopping at iteration=100 with maximum score= 0.8871327275988293
+20:14:32 INFO Early stopping at iteration=100 with maximum score= 0.8892249777842998
+20:37:16 INFO Early stopping at iteration=100 with maximum score= 0.8820729490221014
+20:58:37 INFO Early stopping at iteration=100 with maximum score= 0.8822549547125818
+21:19:44 INFO Early stopping at iteration=100 with maximum score= 0.868910860012555
+21:40:49 INFO Early stopping at iteration=100 with maximum score= 0.8748688458434221
+22:00:34 INFO Early stopping at iteration=100 with maximum score= 0.8685745673033808
+22:18:03 INFO tree | pctl=0.97 | t=0.0	Baseline=0.86744	iteration=37	index=38	num_gene_included=38	Accuracy=0.91889	∆=0.051446	SEM=0.018898

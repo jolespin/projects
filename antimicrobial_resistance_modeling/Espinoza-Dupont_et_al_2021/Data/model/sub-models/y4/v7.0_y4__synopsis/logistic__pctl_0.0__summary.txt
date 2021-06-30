@@ -1,0 +1,54 @@
+================================
+soothsayer:clairvoyance v0.3_2018-08-28
+================================
+Name:	v7.0_y4
+X:	./y4/X.pbz2
+y:	./y4/y.pbz2
+Encoding:	None
+Path:	./y4
+Shape:	(69, 3065)
+Model Type:	logistic
+Percentile:	0.0
+================
+ Baseline 
+================
+Percentile = 0:  0.769047619048
+Current percentile = 0.0: 0.769047619048
+================
+ Hyperparameters 
+================
+n_iter                                            500
+random_state                                        0
+random_mode                                         0
+n_jobs                                             32
+min_threshold    [0.0, 0.5, 0.6, 0.7, 0.8, 0.9, None]
+================
+ Labels 
+================
+attr_type     gene
+class_type     moa
+================
+ Cross Validation 
+================
+method            bruteforce
+min_bruteforce           150
+early_stopping           100
+cv	./y4/cv.tsv
+================
+ Data Type 
+================
+compression    infer
+pickled        infer
+================
+ Results 
+================
+Best hyperparameters:	{'C': 1.0, 'penalty': 'l2'}
+Best weights from minimum threshold:	0.0	
+
+
+accuracy              1
+sem                   0
+num_gene_included    80
+
+
+

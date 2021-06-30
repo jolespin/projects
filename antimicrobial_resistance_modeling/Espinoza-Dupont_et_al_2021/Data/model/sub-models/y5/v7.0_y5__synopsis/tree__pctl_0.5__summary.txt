@@ -1,0 +1,54 @@
+================================
+soothsayer:clairvoyance v0.3_2018-08-28
+================================
+Name:	v7.0_y5
+X:	./y5/tree/percentile_0.5/X.subset.pbz2
+y:	./y5/y.pbz2
+Encoding:	None
+Path:	./y5
+Shape:	(220, 1532)
+Model Type:	tree
+Percentile:	0.5
+================
+ Baseline 
+================
+Percentile = 0:  0.872288359788
+Current percentile = 0.5: 0.949470899471
+================
+ Hyperparameters 
+================
+n_iter             500
+random_state         0
+random_mode          0
+n_jobs              32
+min_threshold    [0.0]
+================
+ Labels 
+================
+attr_type     gene
+class_type     moa
+================
+ Cross Validation 
+================
+method            bruteforce
+min_bruteforce           150
+early_stopping           100
+cv	./y5/cv.tsv
+================
+ Data Type 
+================
+compression    infer
+pickled        infer
+================
+ Results 
+================
+Best hyperparameters:	{'min_samples_leaf': 1, 'criterion': 'gini', 'max_features': 0.382}
+Best weights from minimum threshold:	0.0	
+
+
+accuracy              0.984656
+sem                  0.0128409
+num_gene_included          117
+
+
+

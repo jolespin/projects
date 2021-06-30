@@ -1,0 +1,24 @@
+06:27:16 INFO tree | pctl=0.0 | t=0.0	Baseline=0.87229	iteration=1	index=2	num_gene_included=2	Accuracy=0.93439	∆=0.062103	SEM=0.031323
+06:27:17 INFO tree | pctl=0.0 | t=0.0	Baseline=0.87229	iteration=2	index=3	num_gene_included=3	Accuracy=0.93439	∆=0.062103	SEM=0.029586
+06:29:37 INFO Early stopping at iteration=102 with maximum score= 0.9343915343915344
+07:11:19 INFO tree | pctl=0.1 | t=0.0	Baseline=0.86991	iteration=1	index=2	num_gene_included=2	Accuracy=0.93968	∆=0.069775	SEM=0.031572
+07:11:30 INFO tree | pctl=0.1 | t=0.0	Baseline=0.86991	iteration=8	index=9	num_gene_included=9	Accuracy=0.94365	∆=0.073743	SEM=0.028417
+07:11:33 INFO tree | pctl=0.1 | t=0.0	Baseline=0.86991	iteration=10	index=11	num_gene_included=11	Accuracy=0.95238	∆=0.082474	SEM=0.027919
+07:14:04 INFO Early stopping at iteration=110 with maximum score= 0.9523809523809523
+07:55:03 INFO Early stopping at iteration=100 with maximum score= 0.944973544973545
+08:33:19 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+09:08:19 INFO Early stopping at iteration=100 with maximum score= 0.9359788359788359
+09:37:40 INFO tree | pctl=0.5 | t=0.0	Baseline=0.94947	iteration=12	index=13	num_gene_included=13	Accuracy=0.95694	∆=0.0074735	SEM=0.029691
+09:39:22 INFO tree | pctl=0.5 | t=0.0	Baseline=0.94947	iteration=83	index=84	num_gene_included=84	Accuracy=0.9664	∆=0.016931	SEM=0.019996
+09:40:08 INFO tree | pctl=0.5 | t=0.0	Baseline=0.94947	iteration=116	index=117	num_gene_included=117	Accuracy=0.98466	∆=0.035185	SEM=0.012841
+09:42:29 INFO Early stopping at iteration=216 with maximum score= 0.9846560846560847
+10:11:49 INFO Early stopping at iteration=100 with maximum score= 0.9534391534391533
+10:41:48 INFO Early stopping at iteration=100 with maximum score= 0.9507936507936507
+11:09:27 INFO Early stopping at iteration=100 with maximum score= 0.9597883597883597
+11:32:48 INFO Early stopping at iteration=100 with maximum score= 0.9714285714285713
+11:54:18 INFO Early stopping at iteration=100 with maximum score= 0.9701058201058201
+12:16:02 INFO Early stopping at iteration=100 with maximum score= 0.971957671957672
+12:35:58 INFO Early stopping at iteration=100 with maximum score= 0.9317460317460318
+12:56:24 INFO Early stopping at iteration=100 with maximum score= 0.929100529100529
+13:15:29 INFO Early stopping at iteration=100 with maximum score= 0.9679894179894178
+13:36:07 INFO Early stopping at iteration=100 with maximum score= 0.9611111111111111

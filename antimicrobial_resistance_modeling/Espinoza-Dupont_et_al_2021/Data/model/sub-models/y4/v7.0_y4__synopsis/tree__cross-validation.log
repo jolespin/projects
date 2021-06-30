@@ -1,0 +1,88 @@
+03:06:31 INFO tree | pctl=0.0 | t=0.0	Baseline=0.51905	iteration=1	index=2	num_gene_included=2	Accuracy=0.8619	∆=0.34286	SEM=0.097706
+03:06:34 INFO tree | pctl=0.0 | t=0.0	Baseline=0.51905	iteration=4	index=5	num_gene_included=5	Accuracy=0.9381	∆=0.41905	SEM=0.038095
+03:06:56 INFO tree | pctl=0.0 | t=0.0	Baseline=0.51905	iteration=35	index=36	num_gene_included=36	Accuracy=0.95476	∆=0.43571	SEM=0.029258
+03:08:06 INFO Early stopping at iteration=135 with maximum score= 0.9547619047619047
+03:09:34 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+03:10:52 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+03:12:09 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+03:20:12 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+04:00:30 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+04:01:52 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+04:03:19 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+04:04:37 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+04:11:50 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+04:49:08 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+04:50:29 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+04:51:47 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+04:53:04 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+04:59:47 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+05:34:25 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+05:35:45 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+05:37:04 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+05:38:24 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+05:44:06 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+06:14:43 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+06:16:06 INFO Early stopping at iteration=100 with maximum score= 0.95
+06:17:27 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+06:18:41 INFO Early stopping at iteration=100 with maximum score= 0.95
+06:23:54 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+06:51:20 INFO tree | pctl=0.5 | t=0.0	Baseline=0.92857	iteration=48	index=49	num_gene_included=49	Accuracy=0.96429	∆=0.035714	SEM=0.021951
+06:51:57 INFO tree | pctl=0.5 | t=0.0	Baseline=0.92857	iteration=98	index=99	num_gene_included=99	Accuracy=0.96667	∆=0.038095	SEM=0.020412
+06:53:10 INFO Early stopping at iteration=198 with maximum score= 0.9666666666666666
+06:54:26 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+06:55:39 INFO Early stopping at iteration=100 with maximum score= 0.9285714285714286
+06:56:52 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+07:00:54 INFO tree | pctl=0.5 | t=None	Baseline=0.92857	iteration=41	index=42	num_gene_included=42	Accuracy=0.97143	∆=0.042857	SEM=0.028571
+07:02:02 INFO Early stopping at iteration=141 with maximum score= 0.9714285714285715
+07:27:01 INFO Early stopping at iteration=100 with maximum score= 0.9214285714285715
+07:28:18 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+07:29:10 INFO tree | pctl=0.6 | t=0.8	Baseline=0.72381	iteration=72	index=73	num_gene_included=73	Accuracy=0.97381	∆=0.25	SEM=0.017003
+07:30:12 INFO Early stopping at iteration=172 with maximum score= 0.9738095238095237
+07:31:27 INFO Early stopping at iteration=100 with maximum score= 0.9571428571428571
+07:35:18 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+07:57:33 INFO Early stopping at iteration=100 with maximum score= 0.930952380952381
+07:58:39 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+07:59:50 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+08:00:20 INFO tree | pctl=0.7 | t=0.9	Baseline=0.75	iteration=39	index=40	num_gene_included=40	Accuracy=1.0	∆=0.25	SEM=0.0
+08:01:21 INFO Early stopping at iteration=139 with maximum score= 1.0
+08:04:35 INFO Early stopping at iteration=100 with maximum score= 0.95
+08:24:00 INFO Early stopping at iteration=100 with maximum score= 0.8952380952380953
+08:25:09 INFO Early stopping at iteration=100 with maximum score= 0.8952380952380953
+08:26:17 INFO Early stopping at iteration=100 with maximum score= 0.8952380952380953
+08:27:24 INFO Early stopping at iteration=100 with maximum score= 0.9119047619047619
+08:29:51 INFO Early stopping at iteration=100 with maximum score= 0.8952380952380953
+08:46:09 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+08:47:20 INFO Early stopping at iteration=100 with maximum score= 0.9642857142857142
+08:48:28 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+08:49:32 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+08:51:22 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+09:06:37 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+09:07:45 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+09:08:56 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+09:10:07 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+09:11:51 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+09:26:48 INFO Early stopping at iteration=100 with maximum score= 0.930952380952381
+09:27:58 INFO Early stopping at iteration=100 with maximum score= 0.930952380952381
+09:29:06 INFO Early stopping at iteration=100 with maximum score= 0.930952380952381
+09:30:13 INFO Early stopping at iteration=100 with maximum score= 0.9166666666666666
+09:32:00 INFO Early stopping at iteration=100 with maximum score= 0.930952380952381
+09:46:14 INFO Early stopping at iteration=100 with maximum score= 0.9119047619047619
+09:47:22 INFO Early stopping at iteration=100 with maximum score= 0.9142857142857143
+09:48:29 INFO Early stopping at iteration=100 with maximum score= 0.9214285714285715
+09:49:37 INFO Early stopping at iteration=100 with maximum score= 0.9642857142857142
+09:51:14 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+10:05:10 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+10:06:17 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+10:07:28 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+10:08:37 INFO Early stopping at iteration=100 with maximum score= 0.9571428571428571
+10:10:11 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+10:24:14 INFO Early stopping at iteration=100 with maximum score= 0.9476190476190476
+10:25:21 INFO Early stopping at iteration=100 with maximum score= 0.95
+10:26:29 INFO Early stopping at iteration=100 with maximum score= 0.9333333333333333
+10:27:38 INFO Early stopping at iteration=100 with maximum score= 0.9833333333333332
+10:29:06 INFO Early stopping at iteration=100 with maximum score= 0.9547619047619047
+10:42:13 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+10:43:20 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381
+10:44:29 INFO Early stopping at iteration=100 with maximum score= 0.9571428571428571
+10:45:37 INFO Early stopping at iteration=100 with maximum score= 0.9714285714285715
+10:47:01 INFO Early stopping at iteration=100 with maximum score= 0.9380952380952381

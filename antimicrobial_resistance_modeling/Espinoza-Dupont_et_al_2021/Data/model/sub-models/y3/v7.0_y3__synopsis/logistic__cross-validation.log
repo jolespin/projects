@@ -1,0 +1,32 @@
+17:17:06 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=1	index=2	num_gene_included=2	Accuracy=0.88573	∆=0.040876	SEM=0.029651
+17:17:07 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=2	index=3	num_gene_included=3	Accuracy=0.90748	∆=0.062634	SEM=0.031369
+17:17:08 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=3	index=4	num_gene_included=4	Accuracy=0.91047	∆=0.065615	SEM=0.033582
+17:17:09 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=6	index=7	num_gene_included=7	Accuracy=0.94451	∆=0.099661	SEM=0.018984
+17:17:12 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=11	index=12	num_gene_included=12	Accuracy=0.95013	∆=0.10528	SEM=0.017134
+17:17:14 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=14	index=15	num_gene_included=15	Accuracy=0.97285	∆=0.128	SEM=0.011763
+17:17:15 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=15	index=16	num_gene_included=16	Accuracy=0.9774	∆=0.13255	SEM=0.011476
+17:17:20 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=24	index=25	num_gene_included=25	Accuracy=0.98202	∆=0.13717	SEM=0.011355
+17:17:23 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=28	index=29	num_gene_included=29	Accuracy=0.98496	∆=0.14011	SEM=0.010044
+17:17:25 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=31	index=32	num_gene_included=32	Accuracy=0.98672	∆=0.14187	SEM=0.0087731
+17:17:26 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=32	index=33	num_gene_included=33	Accuracy=0.99309	∆=0.14824	SEM=0.0061313
+17:17:29 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=38	index=39	num_gene_included=39	Accuracy=0.99341	∆=0.14855	SEM=0.0044042
+17:17:31 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=40	index=41	num_gene_included=41	Accuracy=0.99422	∆=0.14937	SEM=0.0041971
+17:17:32 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=42	index=43	num_gene_included=43	Accuracy=0.99512	∆=0.15027	SEM=0.0041256
+17:17:39 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=52	index=53	num_gene_included=53	Accuracy=0.99919	∆=0.15434	SEM=0.00081301
+17:18:19 INFO logistic | pctl=0.0 | t=0.0	Baseline=0.84485	iteration=110	index=111	num_gene_included=111	Accuracy=1.0	∆=0.15515	SEM=0.0
+17:19:37 INFO Early stopping at iteration=210 with maximum score= 1.0
+18:31:23 INFO Early stopping at iteration=100 with maximum score= 0.9991869918699188
+19:37:05 INFO Early stopping at iteration=100 with maximum score= 0.9991869918699188
+20:37:44 INFO Early stopping at iteration=100 with maximum score= 0.9991869918699188
+21:33:51 INFO Early stopping at iteration=100 with maximum score= 0.9991869918699188
+22:25:19 INFO Early stopping at iteration=100 with maximum score= 0.9991869918699188
+23:11:42 INFO Early stopping at iteration=100 with maximum score= 0.9991869918699188
+23:51:50 INFO Early stopping at iteration=100 with maximum score= 0.9991869918699188
+00:26:18 INFO Early stopping at iteration=100 with maximum score= 1.0
+00:56:39 INFO Early stopping at iteration=100 with maximum score= 1.0
+01:27:01 INFO Early stopping at iteration=100 with maximum score= 1.0
+01:56:24 INFO Early stopping at iteration=100 with maximum score= 1.0
+02:23:57 INFO Early stopping at iteration=100 with maximum score= 1.0
+02:49:30 INFO Early stopping at iteration=100 with maximum score= 1.0
+03:12:35 INFO Early stopping at iteration=100 with maximum score= 1.0
+03:33:38 INFO Early stopping at iteration=100 with maximum score= 1.0

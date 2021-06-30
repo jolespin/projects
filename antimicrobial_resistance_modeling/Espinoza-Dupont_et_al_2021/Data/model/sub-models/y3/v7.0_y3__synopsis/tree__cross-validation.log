@@ -1,0 +1,22 @@
+05:03:58 INFO tree | pctl=0.0 | t=0.0	Baseline=0.72209	iteration=7	index=8	num_gene_included=8	Accuracy=0.88411	∆=0.16201	SEM=0.032443
+05:04:20 INFO tree | pctl=0.0 | t=0.0	Baseline=0.72209	iteration=35	index=36	num_gene_included=36	Accuracy=0.88526	∆=0.16317	SEM=0.030529
+05:04:35 INFO tree | pctl=0.0 | t=0.0	Baseline=0.72209	iteration=53	index=54	num_gene_included=54	Accuracy=0.89088	∆=0.16879	SEM=0.025962
+05:05:38 INFO tree | pctl=0.0 | t=0.0	Baseline=0.72209	iteration=129	index=130	num_gene_included=130	Accuracy=0.89441	∆=0.17231	SEM=0.02586
+05:07:13 INFO Early stopping at iteration=229 with maximum score= 0.8944073428829525
+05:59:27 INFO Early stopping at iteration=100 with maximum score= 0.8934927087366112
+06:46:52 INFO Early stopping at iteration=100 with maximum score= 0.8921973803071364
+07:29:18 INFO Early stopping at iteration=100 with maximum score= 0.8936959607691315
+08:05:40 INFO tree | pctl=0.4 | t=0.0	Baseline=0.6882	iteration=6	index=7	num_gene_included=7	Accuracy=0.91284	∆=0.22464	SEM=0.027665
+08:07:11 INFO Early stopping at iteration=106 with maximum score= 0.912838753387534
+08:40:20 INFO Early stopping at iteration=100 with maximum score= 0.9058378500451673
+09:09:11 INFO Early stopping at iteration=100 with maximum score= 0.8916650535552976
+09:32:48 INFO Early stopping at iteration=100 with maximum score= 0.8959220544586397
+09:53:13 INFO Early stopping at iteration=100 with maximum score= 0.8965301974448316
+10:11:28 INFO Early stopping at iteration=100 with maximum score= 0.9006323396567298
+10:29:49 INFO Early stopping at iteration=100 with maximum score= 0.904153761775713
+10:47:31 INFO Early stopping at iteration=100 with maximum score= 0.9064201832494515
+11:04:03 INFO Early stopping at iteration=100 with maximum score= 0.910569105691057
+11:19:58 INFO Early stopping at iteration=100 with maximum score= 0.9117628081042713
+11:35:38 INFO Early stopping at iteration=100 with maximum score= 0.8765534262485482
+11:50:43 INFO Early stopping at iteration=100 with maximum score= 0.8866079494128274
+12:30:40 INFO tree | pctl=0.99 | t=0.0	Baseline=0.80986	iteration=18	index=19	num_gene_included=19	Accuracy=0.93217	∆=0.12231	SEM=0.019303
