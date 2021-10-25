@@ -1,0 +1,36 @@
+Feature	Modality	Description
+sobr	clinical	Fasting soluble leptin receptor [sOB-R] concentration
+leptin	clinical	Fasting leptin concentration
+ghrp	clinical	Fasting ghrelin receptor [ghrelinR] concentration
+ghrelin	clinical	Fasting ghrelin concentration
+molar	clinical	Fasting molar excess sOB-R concentration/leptin ratio
+igf1	clinical	Fasting insulin-like growth factor 1 [IGF-1] concentration
+igfbp3	clinical	Fasting insulin-like growth factor binding protein 3 [IGFBP-3] concentration
+molarigf1igfbp3	clinical	Fasting molar excess of IGF-1 concentration/IGFBP-3 ratio
+insulin	clinical	Insulin concentration
+cpeptide	clinical	C-peptide concentration
+salivarycrp	clinical	Salivary C-reactive protein concentration
+cortisol	clinical	Cortisol concentration
+adenovirus	pathogen	Adenovirus
+astrovirus	pathogen	Astrovirus
+bfragilis	pathogen	Bacteroides fragilis
+campylobacter_pan	pathogen	Campylobacter pan-genomes
+cryptosporidium	pathogen	Cryptosporidium
+eaec_aaic	pathogen	Enteroaggregative Escherichia coli aaiC gene
+eaec_aar	pathogen	Enteroaggregative Escherichia coli Aar gene
+eaec_aata	pathogen	Enteroaggregative Escherichia coli aatA gene
+eaec_aggr	pathogen	Enteroaggregative Escherichia coli AggR gene
+ebieneusi	pathogen	Enterocytozoon bieneusi
+enterovirus	pathogen	Enterovirus
+epec_bfpa	pathogen	Enteropathogenic Escherichia coli bfpA gene
+epec_eae	pathogen	Enteropathogenic Escherichia coli eae gene
+etec_lt	pathogen	Enterotoxigenic Escherichia coli heat-labile enterotoxin gene
+etec_sth	pathogen	Enterotoxigenic Escherichia coli heat-stable enterotoxin gene
+etec_stp	pathogen	Enterotoxigenic Escherichia coli heat-stable enterotoxin gene
+giardia	pathogen	Giardia duodenalis
+hpylori	pathogen	Helicobacter pylori
+norovirus	pathogen	Norovirus
+salmonella	pathogen	Salmonella
+sapovirus	pathogen	Sapovirus
+shigellaeiec	pathogen	Shigella/Enteroinvasive Escherichia coli
+stec	pathogen	Shiga toxin-producing Escherichia coli

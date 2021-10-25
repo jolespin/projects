@@ -1,0 +1,54 @@
+================================
+soothsayer:clairvoyance v0.3_2018-08-28
+================================
+Name:	v5.0_y2
+X:	y2/clairvoyance_output/tree/percentile_0.99/X.subset.pbz2
+y:	y2/y.pbz2
+Encoding:	None
+Path:	y2/clairvoyance_output
+Shape:	(60, 143)
+Model Type:	tree
+Percentile:	0.99
+================
+ Baseline 
+================
+Percentile = 0:  0.5245098039215685
+Current percentile = 0.99: 0.5637254901960783
+================
+ Hyperparameters 
+================
+n_iter                                                 500
+random_state                                             0
+random_mode                                              0
+n_jobs                                                  32
+min_threshold    [0.0, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, None]
+================
+ Labels 
+================
+attr_type       edge
+class_type    status
+================
+ Cross Validation 
+================
+method            bruteforce
+min_bruteforce           150
+early_stopping           100
+cv	y2/cv.tsv
+================
+ Data Type 
+================
+compression    infer
+pickled        infer
+================
+ Results 
+================
+Best hyperparameters:	{'criterion': 'entropy', 'min_samples_leaf': 1, 'max_features': 'log2'}
+Best weights from minimum threshold:	0.0	
+
+
+accuracy             0.906863
+sem                  0.033148
+num_edge_included          42
+
+
+

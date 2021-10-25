@@ -1,0 +1,54 @@
+================================
+soothsayer:clairvoyance v0.3_2018-08-28
+================================
+Name:	v5.0_y1
+X:	y1/clairvoyance_output/logistic/percentile_0.97/X.subset.pbz2
+y:	y1/y.pbz2
+Encoding:	None
+Path:	y1/clairvoyance_output
+Shape:	(82, 428)
+Model Type:	logistic
+Percentile:	0.97
+================
+ Baseline 
+================
+Percentile = 0:  0.7598039215686274
+Current percentile = 0.97: 0.9362745098039216
+================
+ Hyperparameters 
+================
+n_iter                                       500
+random_state                                   0
+random_mode                                    0
+n_jobs                                        32
+min_threshold    [0.0, 0.6, 0.7, 0.8, 0.9, None]
+================
+ Labels 
+================
+attr_type       edge
+class_type    status
+================
+ Cross Validation 
+================
+method            bruteforce
+min_bruteforce           150
+early_stopping           100
+cv	y1/cv.tsv
+================
+ Data Type 
+================
+compression    infer
+pickled        infer
+================
+ Results 
+================
+Best hyperparameters:	{'C': 1.0, 'penalty': 'l2'}
+Best weights from minimum threshold:	0.9	
+
+
+accuracy               1
+sem                    0
+num_edge_included    212
+
+
+

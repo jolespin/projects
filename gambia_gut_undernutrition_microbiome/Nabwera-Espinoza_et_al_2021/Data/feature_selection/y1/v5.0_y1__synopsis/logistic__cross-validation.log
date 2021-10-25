@@ -1,0 +1,120 @@
+16:05:34 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+16:06:21 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+16:07:08 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+16:07:51 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+16:08:17 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+18:58:36 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+18:59:20 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+19:00:04 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+19:00:44 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+19:01:08 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+21:27:10 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+21:27:52 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+21:28:33 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+21:29:11 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+21:29:36 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+23:38:32 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+23:39:11 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+23:39:50 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+23:40:25 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+23:40:49 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+01:31:11 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+01:31:47 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+01:32:23 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+01:32:57 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+01:33:19 INFO Early stopping at iteration=100 with maximum score= 0.7598039215686274
+03:06:49 INFO logistic | pctl=0.5 | t=0.0	Baseline=0.77941	iteration=1	index=2	num_edge_included=2	Accuracy=0.79902	∆=0.019608	SEM=0.041498
+03:06:49 INFO logistic | pctl=0.5 | t=0.0	Baseline=0.77941	iteration=2	index=3	num_edge_included=3	Accuracy=0.81373	∆=0.034314	SEM=0.040888
+03:06:50 INFO logistic | pctl=0.5 | t=0.0	Baseline=0.77941	iteration=6	index=7	num_edge_included=7	Accuracy=0.82843	∆=0.04902	SEM=0.040106
+03:06:50 INFO logistic | pctl=0.5 | t=0.0	Baseline=0.77941	iteration=11	index=12	num_edge_included=12	Accuracy=0.83333	∆=0.053922	SEM=0.043944
+03:06:51 INFO logistic | pctl=0.5 | t=0.0	Baseline=0.77941	iteration=16	index=17	num_edge_included=17	Accuracy=0.85294	∆=0.073529	SEM=0.041489
+03:06:51 INFO logistic | pctl=0.5 | t=0.0	Baseline=0.77941	iteration=18	index=19	num_edge_included=19	Accuracy=0.86765	∆=0.088235	SEM=0.040287
+03:06:51 INFO logistic | pctl=0.5 | t=0.0	Baseline=0.77941	iteration=19	index=20	num_edge_included=20	Accuracy=0.87745	∆=0.098039	SEM=0.037439
+03:06:53 INFO logistic | pctl=0.5 | t=0.0	Baseline=0.77941	iteration=33	index=34	num_edge_included=34	Accuracy=0.89706	∆=0.11765	SEM=0.033757
+03:06:54 INFO logistic | pctl=0.5 | t=0.0	Baseline=0.77941	iteration=44	index=45	num_edge_included=45	Accuracy=0.91176	∆=0.13235	SEM=0.034641
+03:06:55 INFO logistic | pctl=0.5 | t=0.0	Baseline=0.77941	iteration=60	index=61	num_edge_included=61	Accuracy=0.93627	∆=0.15686	SEM=0.031481
+03:07:01 INFO logistic | pctl=0.5 | t=0.0	Baseline=0.77941	iteration=106	index=107	num_edge_included=107	Accuracy=0.94608	∆=0.16667	SEM=0.026998
+03:07:14 INFO Early stopping at iteration=206 with maximum score= 0.946078431372549
+03:07:47 INFO Early stopping at iteration=100 with maximum score= 0.9362745098039216
+03:08:22 INFO Early stopping at iteration=100 with maximum score= 0.9362745098039216
+03:08:52 INFO logistic | pctl=0.5 | t=0.7	Baseline=0.77941	iteration=98	index=99	num_edge_included=99	Accuracy=0.97059	∆=0.19118	SEM=0.021655
+03:08:54 INFO logistic | pctl=0.5 | t=0.7	Baseline=0.77941	iteration=114	index=115	num_edge_included=115	Accuracy=0.98039	∆=0.20098	SEM=0.013653
+03:09:07 INFO Early stopping at iteration=214 with maximum score= 0.980392156862745
+03:09:29 INFO Early stopping at iteration=100 with maximum score= 0.9362745098039216
+04:27:28 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+04:27:58 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+04:28:28 INFO Early stopping at iteration=100 with maximum score= 0.9362745098039216
+04:28:56 INFO Early stopping at iteration=100 with maximum score= 0.9705882352941174
+04:29:17 INFO Early stopping at iteration=100 with maximum score= 0.9362745098039216
+05:33:03 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+05:33:30 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+05:33:55 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+05:34:19 INFO Early stopping at iteration=100 with maximum score= 0.980392156862745
+05:34:40 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+06:30:51 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+06:31:17 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+06:31:39 INFO Early stopping at iteration=100 with maximum score= 0.9705882352941174
+06:31:59 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+07:19:18 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+07:19:40 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+07:20:01 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+07:20:21 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+07:20:42 INFO Early stopping at iteration=100 with maximum score= 0.9411764705882353
+07:22:53 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+08:06:10 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+08:06:31 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+08:06:52 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+08:07:13 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+08:07:32 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+08:09:35 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+08:52:17 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+08:52:38 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+08:52:58 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+08:53:18 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+08:53:37 INFO Early stopping at iteration=100 with maximum score= 0.9607843137254901
+08:55:28 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+09:37:17 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+09:37:38 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+09:37:58 INFO Early stopping at iteration=100 with maximum score= 0.9607843137254901
+09:38:17 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+09:38:36 INFO Early stopping at iteration=100 with maximum score= 0.9607843137254901
+09:40:18 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+10:21:11 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+10:21:31 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+10:21:52 INFO Early stopping at iteration=100 with maximum score= 0.9607843137254901
+10:22:12 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+10:22:31 INFO Early stopping at iteration=100 with maximum score= 0.9705882352941174
+10:24:01 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+11:03:57 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+11:04:17 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+11:04:38 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+11:04:57 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+11:05:16 INFO Early stopping at iteration=100 with maximum score= 0.9754901960784313
+11:06:36 INFO Early stopping at iteration=100 with maximum score= 0.9411764705882353
+11:45:50 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+11:46:10 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+11:46:30 INFO Early stopping at iteration=100 with maximum score= 0.946078431372549
+11:46:50 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+11:47:09 INFO Early stopping at iteration=100 with maximum score= 0.9754901960784313
+11:48:16 INFO Early stopping at iteration=100 with maximum score= 0.9558823529411765
+12:26:46 INFO Early stopping at iteration=100 with maximum score= 0.9509803921568626
+12:27:05 INFO Early stopping at iteration=100 with maximum score= 0.9509803921568626
+12:27:25 INFO Early stopping at iteration=100 with maximum score= 0.9509803921568626
+12:27:44 INFO Early stopping at iteration=100 with maximum score= 0.9705882352941176
+12:28:01 INFO logistic | pctl=0.97 | t=0.9	Baseline=0.93627	iteration=77	index=78	num_edge_included=78	Accuracy=0.98529	∆=0.04902	SEM=0.014706
+12:28:07 INFO logistic | pctl=0.97 | t=0.9	Baseline=0.93627	iteration=127	index=128	num_edge_included=128	Accuracy=0.9902	∆=0.053922	SEM=0.0098039
+12:28:16 INFO logistic | pctl=0.97 | t=0.9	Baseline=0.93627	iteration=194	index=195	num_edge_included=195	Accuracy=1.0	∆=0.063725	SEM=0.0
+12:28:31 INFO Early stopping at iteration=294 with maximum score= 1.0
+12:29:28 INFO Early stopping at iteration=100 with maximum score= 0.9509803921568626
+13:06:53 INFO Early stopping at iteration=100 with maximum score= 0.9607843137254901
+13:07:12 INFO Early stopping at iteration=100 with maximum score= 0.9607843137254901
+13:07:31 INFO Early stopping at iteration=100 with maximum score= 0.9607843137254901
+13:07:50 INFO Early stopping at iteration=100 with maximum score= 0.9656862745098038
+13:08:09 INFO Early stopping at iteration=100 with maximum score= 0.980392156862745
+13:08:54 INFO Early stopping at iteration=100 with maximum score= 0.9705882352941176
+13:32:34 INFO Early stopping at iteration=100 with maximum score= 0.9901960784313725
+13:32:53 INFO Early stopping at iteration=100 with maximum score= 0.9901960784313725
+13:33:12 INFO Early stopping at iteration=100 with maximum score= 0.9901960784313725
+13:33:31 INFO Early stopping at iteration=100 with maximum score= 0.980392156862745
+13:33:50 INFO Early stopping at iteration=100 with maximum score= 0.9901960784313725
+13:34:22 INFO Early stopping at iteration=100 with maximum score= 0.980392156862745
