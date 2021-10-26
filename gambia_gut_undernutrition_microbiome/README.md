@@ -5,7 +5,7 @@ The specific roles that gut microbiota, known pathogens, and host energy-regulat
 ______________________
  
 * Citation:
-   * Nabwera, HM+, Espinoza, JL+, Worwui A, Betts, M, Okoi C, Sesay AK., Bancroft W, Agbla SC., Jarju S, Bradbury RS., Colley M, Jallow AT, Liu J, Houpt ER., Prentice AM, Antonio M, Bernstein RM., Dupont CL.+, Kwambana-Adams BA.+ *Interactions between fecal gut microbiome, enteric pathogens, and energy regulating hormones among acutely malnourished rural Gambian children.* EBioMedicine. [doi:10.1016/j.ebiom.2021.103644](https://doi.org/10.1016/j.ebiom.2021.103644).
+   * Nabwera HM+, Espinoza JL+, Worwui A, Betts M, Okoi C, Sesay AK, Bancroft R, Agbla SC, Jarju S, Bradbury RS, Colley M, Jallow AT, Liu J, Houpt ER, Prentice AM, Antonio M, Bernstein RM, Dupont CL+, Kwambana-Adams BA+. *Interactions between fecal gut microbiome, enteric pathogens, and energy regulating hormones among acutely malnourished rural Gambian children*. EBioMedicine. 2021 Oct 22;73:103644. [doi: 10.1016/j.ebiom.2021.103644](https://doi.org/10.1016/j.ebiom.2021.103644). PMID: 34695658.
 
 * BioProject: 
 	* [PRJNA727842](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA727842)
